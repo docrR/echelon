@@ -1,7 +1,9 @@
 <h3><img src="images/echelon.png" alt="logo"></h3>
 Bring back the "better Internet".
 
-Echelon is an old Mozilla Firefox theme for Mozilla Firefox 115ESR.
+Echelon is an ol' Mozilla Firefox theme for Mozilla Firefox 115ESR.
+
+Disclaimer: This repo is not affiliated with upstream. This is a read-only archive meant to mirror the project. Direct your inquiries and pull requests to the official repo.
 
 ![Screenshot](images/preview.png)
 
